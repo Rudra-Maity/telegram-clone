@@ -13,24 +13,34 @@ This is a responsive chat application built with React and Material-UI. The appl
 - **Chat List**: Display a list of chats with search functionality.
 - **Chat Messages View**: View messages within a selected chat with support for media queries.
 - **Sidebar Navigation**: Includes settings and logout options.
+- **Profile lists in chatlist items and Profile in message room
 
 ## Screenshots
 
-### Desktop View when opend
+### Desktop View when clickend on a chat
 ![Desktop View](https://github.com/Rudra-Maity/telegram-clone/blob/main/public/desktop-view.png)
 
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
+### Desktop View for Dark mode
+![Desktop View](public/desktop-dark.png)
 
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+### Mobile View for chat lists
+![Mobile View](public/mobile-chats.png)
+
+### mobile view for messages
+![chat messages](public/mobile-chatmessage.png)
+
+### chat bar
+![chat bar](public/chatbar.png)
+
+### sidebar when click on Humburg
+![Menu](public/sidebar.png)
 
 ## Installation
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/chat-application.git
-    cd chat-application
+    git clone https://github.com/Rudra-Maity/telegram-clone.git
+    cd telegram-clone-main 
     ```
 
 2. **Install dependencies**:
@@ -46,6 +56,21 @@ This is a responsive chat application built with React and Material-UI. The appl
 ## Usage
 
 Open your browser and navigate to `http://localhost:3000`. You will see the chat application with a list of chats on the left side and the chat messages on the right side. On mobile devices, you will see either the chat list or the chat messages, with a back button to navigate between them.
+
+## Deployment server
+
+Open your browser and navigate to `https://telegram-clone-rudrapriya.vercel.app/ `. You will see the chat application with a list of chats on the left side and the chat messages on the right side. On mobile devices, you will see either the chat list or the chat messages, with a back button to navigate between them.
+
+# Automatic Deployment with GitHub:
+If your project is hosted on GitHub, you can link your repository to Vercel for automatic deployments. Every time you push changes to your repository, Vercel will automatically build and deploy the latest version of your application.
+
+To link your GitHub repository:
+
+   1. Go to your Vercel dashboard.
+   2. Click on the "New Project" button.
+   3. Select your GitHub repository and follow the prompts to configure the project settings.
+    Once linked, Vercel will deploy your application whenever you push changes to the repository.
+
 
 ## Testing
 
