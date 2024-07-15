@@ -20,6 +20,9 @@ This is a responsive chat application built with React and Material-UI. The appl
 ### Desktop View when clickend on a chat
 ![Desktop View](https://github.com/Rudra-Maity/telegram-clone/blob/main/public/desktop-view.png)
 
+### Dark Mode Light Mode toggle button
+![Toggle Button](public/toggle.png)
+
 ### Desktop View for Dark mode
 ![Desktop View](public/desktop-dark.png)
 
