@@ -1,4 +1,4 @@
-# Getting Started with Create React Telegram-Clone [https://telegram-clone-rudrapriya.vercel.app/]
+# Getting Started with Create React Telegram-Clone https://telegram-clone-rudrapriya.vercel.app/
 
  # Create React App(https://github.com/facebook/create-react-app).
 
