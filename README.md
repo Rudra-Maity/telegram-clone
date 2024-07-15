@@ -16,8 +16,8 @@ This is a responsive chat application built with React and Material-UI. The appl
 
 ## Screenshots
 
-### Desktop View
-![Desktop View](screenshots/desktop-view.png)
+### Desktop View when opend
+![Desktop View](https://github.com/Rudra-Maity/telegram-clone/blob/main/public/desktop-view.png)
 
 ### Mobile View
 ![Mobile View](screenshots/mobile-view.png)
